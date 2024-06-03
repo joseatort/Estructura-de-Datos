@@ -1,0 +1,58 @@
+//HACEN LO MISMO
+
+void eliminarpares()
+	{
+		Nodo* actual = prim;
+		Nodo* auxiliar = nullptr;
+		int contador = 0;
+
+ 		while (actual != nullptr)
+		{
+			contador++;
+
+			if (contador % 2 == 0)
+			{
+				
+				auxiliar->sig = actual->sig;
+				delete(actual);
+				actual = auxiliar->sig;
+
+
+			}
+			else
+			{
+				auxiliar = actual;
+				actual = actual->sig;
+			}
+
+		}
+
+		
+	}
+
+
+
+void eliminarpares()
+	{
+		Nodo* actual = prim;
+		Nodo* aux = nullptr;
+		int contador = 0;
+
+
+ 		while (actual->sig!= nullptr)
+		{
+			if (actual->sig->sig != nullptr)
+			{
+				actual->sig = actual->sig->sig;
+				actual->sig->ant = actual;
+				actual = actual->sig;
+			}
+			else
+			{
+				aux = actual;
+				pop_back();
+			}
+
+		}
+		
+	}

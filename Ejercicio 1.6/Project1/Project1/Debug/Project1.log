@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Escritorio\Cosas Universidad\2º\Segundo Cuatrimestre\Estructura de Datos\Ejercicios Juez\Ejercicio 6\Project1\Project1\Multiconjunto.h(75,21): error C2589: ':': símbolo (token) no válido en el lado derecho de '::'
+C:\Escritorio\Cosas Universidad\2º\Segundo Cuatrimestre\Estructura de Datos\Ejercicios Juez\Ejercicio 6\Project1\Project1\Multiconjunto.h(75): error C2062: tipo 'unknown-type' inesperado
+C:\Escritorio\Cosas Universidad\2º\Segundo Cuatrimestre\Estructura de Datos\Ejercicios Juez\Ejercicio 6\Project1\Project1\Multiconjunto.h(76,1): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Escritorio\Cosas Universidad\2º\Segundo Cuatrimestre\Estructura de Datos\Ejercicios Juez\Ejercicio 6\Project1\Project1\Multiconjunto.h(76,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)

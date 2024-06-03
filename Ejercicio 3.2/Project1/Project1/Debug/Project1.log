@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Escritorio\Cosas Universidad\2º\Segundo Cuatrimestre\Estructura de Datos\Ejercicios Juez\Ejercicio 3.2\Project1\Project1\Source.cpp(44,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Escritorio\Cosas Universidad\2º\Segundo Cuatrimestre\Estructura de Datos\Ejercicios Juez\Ejercicio 3.2\Project1\Project1\Source.cpp(31): warning C4715: 'resolver': no todas las rutas de acceso de control devuelven un valor
+  Project1.vcxproj -> C:\Escritorio\Cosas Universidad\2º\Segundo Cuatrimestre\Estructura de Datos\Ejercicios Juez\Ejercicio 3.2\Project1\Debug\Project1.exe

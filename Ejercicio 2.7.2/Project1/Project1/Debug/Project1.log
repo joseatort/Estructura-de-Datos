@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Escritorio\Cosas Universidad\2º\Segundo Cuatrimestre\Estructura de Datos\Ejercicios Juez\Ejercicio 2.7.2\Project1\Project1\Source.cpp(86,20): warning C4804: '>': uso no seguro del tipo 'bool' en la operación
+C:\Escritorio\Cosas Universidad\2º\Segundo Cuatrimestre\Estructura de Datos\Ejercicios Juez\Ejercicio 2.7.2\Project1\Project1\Source.cpp(54): warning C4715: 'resolver': no todas las rutas de acceso de control devuelven un valor
+  Project1.vcxproj -> C:\Escritorio\Cosas Universidad\2º\Segundo Cuatrimestre\Estructura de Datos\Ejercicios Juez\Ejercicio 2.7.2\Project1\Debug\Project1.exe

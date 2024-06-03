@@ -1,0 +1,15 @@
+nueva_linea A
+nueva_linea B
+nueva_linea C
+nueva_estacion A Estacion1 10
+nueva_estacion B Estacion2 20
+nueva_estacion C Estacion3 30
+lineas_de Estacion2
+proxima_estacion B Estacion2
+proxima_estacion Z Estacion2
+eliminar_estacion Estacion2
+lineas_de Estacion2
+lineas_de Estacion4
+proxima_estacion B Estacion2
+proxima_estacion C Estacion3
+FIN
